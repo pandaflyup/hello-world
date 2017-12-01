@@ -1,2 +1,3 @@
 # hello-world
-just a sample
+just a sample by pandaflyup
+print "hello world"
